@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daman singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Analyzing Tomorrow, Delivering Today | Business Analyst 🚀📉</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
